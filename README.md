@@ -23,8 +23,3 @@ Gasto a maior parte do meu esforço me aprimorando em React-Native, e a outra pa
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOleari015&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreOleari015&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-        
-     
-                    
-          
