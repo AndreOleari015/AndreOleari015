@@ -15,8 +15,6 @@ Gasto a maior parte do meu esforço me aprimorando em React-Native, e a outra pa
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>            
    
-![snake](https://raw.githubusercontent.com/AndreOleari015/AndreOleari015/snake/github-snake.svg)
-   
  <div>
 <a href="https://github.com/AndreOleari015">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOleari015&layout=compact&langs_count=7&theme=dracula"/>
