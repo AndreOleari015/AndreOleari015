@@ -7,7 +7,7 @@ Gasto a maior parte do meu esforço me aprimorando em React-Native, e a outra pa
 <a href="https://www.instagram.com/andreoleari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:andre.oleari1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andre-oleari-83406520b/ " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://wa.me/5591984732602 " target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-Jeb67?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5591984732602 " target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-Jeb67?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
 </div>
         
 ## Ferramentas e Tecnologias
