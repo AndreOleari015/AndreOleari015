@@ -1,7 +1,6 @@
 ### Olá, eu me chamo Andre Oleari
 
-Tenho 19 anos, moro no interior do Pará em uma cidade chamada Paragomianas, sou Desenvolvedor React-Native Jr. e estou cursando Analise e Desenvolvimento de Sistemas e no momento atuo como desenvolvedor freelancer.
-Gasto a maior parte do meu esforço me aprimorando em React-Native, e a outra parte é direcionada para pesquisar novas tecnologias
+Desenvolvedor React-Native apaixonado por desafios e inovação. Residente em Paragominas, Pará, e dedicado a aprimorar constantemente minhas habilidades na criação de soluções móveis com React-Native. Explorando as fronteiras da tecnologia para oferecer experiências de usuário excepcionais. Seja bem-vindo ao meu mundo de código e criatividade, sou Andre Oleari Bastos.
 ## Contatos:
 <div>
 <a href="https://www.instagram.com/andreoleari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
