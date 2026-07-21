@@ -16,9 +16,9 @@ Open to engineering roles across the EU.
 
 | App | What it does | Store |
 |---|---|---|
-| **Bus Times: Dublin & Ireland** | Live departures for bus, tram and rail, built on NTA/TFI open data | [App Store](#) |
-| **Lista Virtual** | Offline-first event check-in — 222 events and counting | [App Store](#) · [Play](#) |
-| **Scoreboard / Placar** | Tournament brackets, live scoring, works offline | [App Store](#) |
+| **Bus Times: Dublin & Ireland** | Live departures for bus, tram and rail, built on NTA/TFI open data | [App Store](https://apps.apple.com/us/app/bus-times-dublin-and-ireland/id6783506737) |
+| **Lista Virtual** | Offline-first event check-in — 222 events and counting | [App Store](https://apps.apple.com/us/app/lista-virtual-guest-list/id6738919953) · [Play](https://play.google.com/store/apps/details?id=com.ROC) |
+| **Scoreboard / Placar** | Tournament brackets, live scoring, works offline | [App Store](https://apps.apple.com/us/app/scoreboard-tournament-track/id6756669003) |
 
 ## 🛠 Built
 
