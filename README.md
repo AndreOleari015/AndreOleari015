@@ -19,7 +19,7 @@ Three apps designed, built and published on my own developer account.
 
 | App | What it does | Store | Code |
 |---|---|---|---|
-| **Bus Times: Dublin & Ireland** | Live departures for bus, tram and rail, built on NTA/TFI open data | [App Store](https://apps.apple.com/us/app/bus-times-dublin-and-ireland/id6783506737) | [tfi-departures-worker](https://github.com/AndreOleari015/tfi-departures-worker) |
+| **Bus Times: Dublin & Ireland** | Live departures for bus, tram and rail, built on NTA/TFI open data | [App Store](https://apps.apple.com/us/app/bus-times-dublin-and-ireland/id6783506737)  · [Play](https://play.google.com/store/apps/details?id=com.tfibusguide.app) | [tfi-departures-worker](https://github.com/AndreOleari015/tfi-departures-worker) |
 | **Lista Virtual** | Offline-first event check-in — 222 events and counting | [App Store](https://apps.apple.com/us/app/lista-virtual-guest-list/id6738919953) · [Play](https://play.google.com/store/apps/details?id=com.ROC) | — |
 | **Scoreboard / Placar** | Tournament brackets, live scoring, works offline | [App Store](https://apps.apple.com/us/app/scoreboard-tournament-track/id6756669003) · [Play](https://play.google.com/store/apps/details?id=com.scoreboardapp.app) | [tournament-engine](https://github.com/AndreOleari015/tournament-engine) |
 
